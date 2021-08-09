@@ -1,4 +1,3 @@
-
 def main():
     chessBoard = []
     N, M = map(int, input().split())
@@ -12,6 +11,3 @@ def sliceSqure(chessBoard):
             
 if __name__ == "__main__":
     main()
-
-
-
