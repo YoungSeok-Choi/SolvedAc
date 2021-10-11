@@ -17,6 +17,7 @@ def DFS(array_2d, N, i, j, k, visited):
     DFS(array_2d, N, i, j+1, k, visited)
     DFS(array_2d, N, i, j-1, k, visited)
 
+
 array_2d = []
 safeAreaSet = []
 visited = []
